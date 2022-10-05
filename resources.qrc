@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="/">
+    <file>images/icons/cil-arrow-bottom.png</file>
+    <file>images/icons/cil-home.png</file>
+    <file>images/icons/icon_bus.png</file>
+    <file>images/icons/icon_close.png</file>
+    <file>images/icons/icon_home.png</file>
+    <file>images/icons/icon_info.png</file>
+    <file>images/icons/icon_maximize.png</file>
+    <file>images/icons/icon_menu.png</file>
+    <file>images/icons/icon_menu_old.png</file>
+    <file>images/icons/icon_minimize.png</file>
+    <file>images/icons/icon_restore.png</file>
+    <file>images/icons/icon_search.png</file>
+    <file>images/icons/icon_settings.png</file>
+    <file>images/icons/icon_train.png</file>
+  </qresource>
+</RCC>
